@@ -19,5 +19,6 @@ function checkUsername()
         jr_set_value('mail_address', '');
     }
 
-    //Kommentar 14:27 Uhr
+
+    // Comment for the webinar at 15:26
 }

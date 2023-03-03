@@ -18,4 +18,6 @@ function checkUsername()
         jr_set_value('lastname', '');
         jr_set_value('mail_address', '');
     }
+
+    //Kommentar 14:27 Uhr
 }
